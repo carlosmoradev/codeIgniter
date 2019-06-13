@@ -1,0 +1,1 @@
+<h2>simple footer</h2>
